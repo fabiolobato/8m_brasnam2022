@@ -17,12 +17,13 @@ Os scripts, tanto desenvolvidos como utilizados de terceiros, foram feitos na li
 
 - [Jupyter](https://docs.jupyter.org/en/latest/)
 - [Pymongo](https://pymongo.readthedocs.io/en/stable/)
+- [tqdm](https://tqdm.github.io/)
 - [Tweepy](https://docs.tweepy.org/en/stable/)
 
 ## Fluxo de utilização
 
 Para fins organizacionais e didáticos, dividimos o repositório em três etapas:
 
-- 1. Coleta dos dados
-- 2. Pré-processamento dos dados
-- 3. Análise dos dados
+1. Coleta e criação de bases de dados
+2. Pré-processamento dos dados
+3. Análise dos dados
