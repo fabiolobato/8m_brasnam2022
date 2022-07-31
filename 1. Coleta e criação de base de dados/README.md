@@ -1,4 +1,4 @@
-# 1. Coleta dos dados
+# 1. Coleta e criação de base de dados
 
 São os scripts responsáveis pelos processos de coleta, atualização e organização das bases de dados.
 

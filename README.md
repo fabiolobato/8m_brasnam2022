@@ -16,6 +16,9 @@ Os scripts, tanto desenvolvidos como utilizados de terceiros, foram feitos na li
 ### Bibliotecas utilizadas
 
 - [Jupyter](https://docs.jupyter.org/en/latest/)
+- [NLTK](https://www.nltk.org/)
+- [Numpy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
 - [Pymongo](https://pymongo.readthedocs.io/en/stable/)
 - [tqdm](https://tqdm.github.io/)
 - [Tweepy](https://docs.tweepy.org/en/stable/)
