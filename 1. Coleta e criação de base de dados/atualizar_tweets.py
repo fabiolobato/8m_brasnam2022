@@ -16,11 +16,14 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 
 MONGO_HOST = 'mongodb://localhost:27017/'
-client = MongoClient(MONGO_HOST)
-db = client['IWD2021']
-collection = db.tweets
-collection2 = db.tweets_server_updated
+MONGO_DB = 'SUA_DATABASE_AQUI'
+MONGO_COLL_ORIGEM = 'SUA_COLLECTION_DE_ORIGEM_AQUI'
+MONGO_COLL_DESTINO = 'SUA_COLLECTION_DE_DESTINO_AQUI'
 
+client = MongoClient(MONGO_HOST)
+db = client[MONGO_DB]
+collection = db[MONGO_COLL_ORIGEM]
+collection2 = db[MONGO_COLL_DESTINO]
 
 num_docs = collection.count_documents({})
 num_limit = 1000
