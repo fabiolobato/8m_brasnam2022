@@ -1,5 +1,9 @@
 # Análise dos dados
 
+- [Análise dos dados](#análise-dos-dados)
+  - [Modelagem de tópicos](#modelagem-de-tópicos)
+  - [Análise de sentimentos](#análise-de-sentimentos)
+
 ## Modelagem de tópicos
 
 Os notebooks utilizados nessa etapa foram obtidos do repositório [derekgreene/topic-model-tutorial](https://github.com/derekgreene/topic-model-tutorial) e adaptados ao contexto deste trabalho:

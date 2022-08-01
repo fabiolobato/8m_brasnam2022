@@ -1,5 +1,9 @@
 # 2. Pré-processamento dos dados
 
+- [2. Pré-processamento dos dados](#2-pré-processamento-dos-dados)
+  - [2.1. Limpeza e arquivos csv](#21-limpeza-e-arquivos-csv)
+  - [2.2. Dividir dados em arquivos de 1k linhas](#22-dividir-dados-em-arquivos-de-1k-linhas)
+
 São os scripts responsáveis pela etapa de pré-processamento dos dados e criação dos arquivos a serem usado como entrada para a fase de implementação da análise dos dados.
 
 Para essa etapa, optou-se pela utilização de python notebooks, que podem ser utilizados via Jupyter Notebook, Jupyter Lab ou mesmo pelo VSCode, entre outros.

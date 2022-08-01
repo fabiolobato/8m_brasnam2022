@@ -1,5 +1,12 @@
 # 8m_brasnam2022
 
+- [8m_brasnam2022](#8m_brasnam2022)
+  - [Considerações iniciais](#considerações-iniciais)
+  - [Dependências](#dependências)
+    - [Bibliotecas utilizadas](#bibliotecas-utilizadas)
+    - [Outras ferramentas utilizadas](#outras-ferramentas-utilizadas)
+  - [Fluxo de utilização](#fluxo-de-utilização)
+
 ## Considerações iniciais
 
 Este repositório contém as implementações referentes ao artigo publicado no [BrasNAM 2022](https://sol.sbc.org.br/index.php/brasnam):
